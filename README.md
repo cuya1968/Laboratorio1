@@ -1,1 +1,1 @@
-Laboratorio 1 - Fundametos de algoritmo
+"Laboratorio1 - Fundameto de LGORITMOS" 
